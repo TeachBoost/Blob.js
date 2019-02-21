@@ -1,0 +1,16 @@
+{
+  "name": "blob.js",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "eligry",
+  "description": "Blob.js implements the W3C Blob interface in browsers that do not natively support it.",
+  "license": "MIT",
+  "contributors": "eligry",
+  "keywords": [],
+  "bugs": "https://github.com/TeachBoost/Blob.js/issues",
+  "dependencies": {},
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/TeachBoost/Blob.js"
+  }
+}
